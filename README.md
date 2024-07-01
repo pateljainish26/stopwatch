@@ -1,0 +1,1 @@
+I recently created a fully functional stopwatch using HTML, CSS, and JavaScript. This project allowed me to dive deeper into the intricacies of front-end development and enhance my skills in creating interactive web applications
